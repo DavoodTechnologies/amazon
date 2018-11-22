@@ -6,4 +6,6 @@ This is or new commit
 This is for more than one alias
 
 
-This is the code or new application in newfeature branch 
+This is the code or new application in newfeature branch
+
+modify nrnininin
